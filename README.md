@@ -7,6 +7,7 @@ All python leetcode problems I've done
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mihircoding/Leetcode/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/mihircoding/Leetcode/tree/master/0057-insert-interval) |
 | [0219-contains-duplicate-ii](https://github.com/mihircoding/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
