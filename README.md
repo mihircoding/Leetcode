@@ -18,6 +18,7 @@ All python leetcode problems I've done
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mihircoding/Leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/mihircoding/Leetcode/tree/master/0071-simplify-path) |
 ## Sorting
 |  |
 | ------- |
@@ -26,4 +27,8 @@ All python leetcode problems I've done
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mihircoding/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/mihircoding/Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
