@@ -7,10 +7,12 @@ All python leetcode problems I've done
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mihircoding/Leetcode/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/mihircoding/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mihircoding/Leetcode/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/mihircoding/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -19,4 +21,8 @@ All python leetcode problems I've done
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mihircoding/Leetcode/tree/master/0049-group-anagrams) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/mihircoding/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
