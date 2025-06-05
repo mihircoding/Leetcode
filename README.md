@@ -46,9 +46,11 @@ All python leetcode problems I've done
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mihircoding/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/mihircoding/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mihircoding/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mihircoding/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/mihircoding/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
