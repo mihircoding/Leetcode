@@ -21,6 +21,7 @@ All python leetcode problems I've done
 | ------- |
 | [0049-group-anagrams](https://github.com/mihircoding/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/mihircoding/Leetcode/tree/master/0071-simplify-path) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mihircoding/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mihircoding/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
@@ -58,4 +59,5 @@ All python leetcode problems I've done
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mihircoding/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/mihircoding/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/mihircoding/Leetcode/tree/master/0086-partition-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mihircoding/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
