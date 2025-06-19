@@ -11,6 +11,7 @@ All python leetcode problems I've done
 | [0150-evaluate-reverse-polish-notation](https://github.com/mihircoding/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/mihircoding/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mihircoding/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/mihircoding/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ All python leetcode problems I've done
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mihircoding/Leetcode/tree/master/0049-group-anagrams) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/mihircoding/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,4 +62,8 @@ All python leetcode problems I've done
 | [0061-rotate-list](https://github.com/mihircoding/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/mihircoding/Leetcode/tree/master/0086-partition-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mihircoding/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/mihircoding/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 <!---LeetCode Topics End-->
