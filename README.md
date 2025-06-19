@@ -10,6 +10,7 @@ All python leetcode problems I've done
 | [0057-insert-interval](https://github.com/mihircoding/Leetcode/tree/master/0057-insert-interval) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mihircoding/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/mihircoding/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1319-unique-number-of-occurrences](https://github.com/mihircoding/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mihircoding/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mihircoding/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/mihircoding/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -18,6 +19,7 @@ All python leetcode problems I've done
 | ------- |
 | [0049-group-anagrams](https://github.com/mihircoding/Leetcode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/mihircoding/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1319-unique-number-of-occurrences](https://github.com/mihircoding/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mihircoding/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
 |  |
