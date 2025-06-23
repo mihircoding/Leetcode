@@ -70,4 +70,8 @@ All python leetcode problems I've done
 |  |
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/mihircoding/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mihircoding/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
